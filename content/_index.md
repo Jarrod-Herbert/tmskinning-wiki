@@ -2,7 +2,7 @@
 title: "TMSkin | Welcome"
 ---
 
-# Getting Started
+Getting Started
 
 Right now the library is being built! Want to contribute? 
 
