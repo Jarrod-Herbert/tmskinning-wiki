@@ -1,4 +1,4 @@
-name: TM Skinning Wiki
+name: TM Skinning Community
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -7,7 +7,7 @@ enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: false
+enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
@@ -17,9 +17,7 @@ operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
   The second brain of the TrackMania Skinning Community.
 page_title:
-  "TrackMania Skinning Wiki"
+  "TM Skinning Wiki"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/Jarrod-Herbert
